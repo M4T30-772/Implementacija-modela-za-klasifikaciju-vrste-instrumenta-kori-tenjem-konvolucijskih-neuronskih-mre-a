@@ -1,2 +1,1 @@
-# Implementacija-modela-za-klasifikaciju-vrste-instrumenta-kori-tenjem-konvolucijskih-neuronskih-mre-a
-Implementacija modela za klasifikaciju vrste instrumenta korištenjem konvolucijskih neuronskih mreža
+Implementation of a model for instrument type classification using convolutional neural networks
